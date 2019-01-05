@@ -2,9 +2,9 @@
 Personal Site using AirSpace jekyll theme.
 
 ## Customisations
-- `index.html`
+### `index.html`
     - General content change(s)
-- `airspace.css`
+### `airspace.css`
     - Added - `text-align: center`
     - Container is offset so not properly centered
         ```css
@@ -16,5 +16,11 @@ Personal Site using AirSpace jekyll theme.
         line-height: 60px;
         letter-spacing: 10px;
         padding-bottom: 45px;
+        }
+        ```
+    - added CSS section to unset container offset in `bootstrap.min.css`
+        ```css
+        #slider .col-md-10 {
+            width: unset
         }
         ```
