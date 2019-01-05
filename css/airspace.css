@@ -136,6 +136,9 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
   letter-spacing: 3px;
 }
+#slider .col-md-10 {
+  width: unset
+}
 /*--
 	wrapper Start
 --*/
