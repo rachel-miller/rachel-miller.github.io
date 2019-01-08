@@ -236,8 +236,8 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  /* background: url("../img/featue-bg.jpg");
-  background-position: 50% 94px; */
+  background: url("../img/mizanLogo.jpg");
+  background-position: 50% 94px;
   width: 100%;
   display: block;
   position: relative;
@@ -245,7 +245,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: rgb(182, 179, 179);
+  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
