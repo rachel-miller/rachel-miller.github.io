@@ -237,12 +237,11 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #feature {
   background: url("../img/mizanLogo.jpg");
-  background-position: 50% 94px;
-  width: 50%;
+  width: 100%;
   display: block;
   position: relative;
   overflow: visible;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-repeat: no-repeat;
   background-position: left center;
   background-color: #fff;
