@@ -242,7 +242,7 @@ font header .navbar-default .navbar-nav li a:hover {
   display: block;
   position: relative;
   overflow: visible;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-repeat: no-repeat;
   background-position: left center;
   background-color: #fff;
